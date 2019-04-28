@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>DreamPokemon</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\UnityInstall\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
