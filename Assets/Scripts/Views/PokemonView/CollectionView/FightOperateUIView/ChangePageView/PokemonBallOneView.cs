@@ -9,5 +9,8 @@ public class PokemonBallOneView : PokemonElement
         app.fightController.PokeBallOneClick();
 
     }
-
+    void OnChangeThisPokemon()
+    {
+        OnSelect();
+    }
 }

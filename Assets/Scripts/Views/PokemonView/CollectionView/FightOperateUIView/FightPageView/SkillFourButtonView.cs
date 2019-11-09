@@ -8,5 +8,8 @@ public class SkillFourButtonView : PokemonElement
     {
         app.fightController.OnSkillFourClick();
     }
-
+    void OnUseThisSkill()
+    {
+        OnSelect();
+    }
 }

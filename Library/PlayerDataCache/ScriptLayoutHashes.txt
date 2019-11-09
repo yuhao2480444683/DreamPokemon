@@ -1,6 +1,6 @@
 Metro
 PlayerPath?
-C:/Users/yuhao/Desktop/DreamPokemon/DreamPokemon/App
+E:/GitHubLocalPath/DreamPokemon/App
 SceneListBegin?
 Assets/DreamPokemon.unity
 SceneListEnd?
@@ -117,6 +117,7 @@ df374c01140c2d578bf70cbd60073d1d UnityEngine.Timeline.dll:UnityEngine.Timeline.T
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.FirstPokemonNameView
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.SkillTwoButtonView
 f6a1e5e6b9440e27d4ec67712e1666a7 Assembly-CSharp.dll:.EnemyTextUIView
+e01f1409391ca18e23396d19a8ecaa86 Assembly-CSharp.dll:.MyEXDisplayUIView
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MySkillTwoView
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RefreshButtonView
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
@@ -195,6 +196,7 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UnderworldSound
+2c024972836d7e20519baad1cd3b940e Assembly-CSharp.dll:.MyHPDisplayUIView
 26215f135eeb48d8fa1189498c107f6c Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
 0561521e336e270e6e5a9c61387cb838 Vuforia.UnityExtensions.dll:Vuforia.AnchorInputListenerBehaviour
 2e0fd93f459db951da0e2e94e2e33fb7 Vuforia.UnityExtensions.dll:Vuforia.AnchorStageBehaviour
@@ -265,6 +267,7 @@ e611f0bfab75b2af0aa9edf1eeb6314c Assembly-CSharp.dll:.Interpolator
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MySkillFourView
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.SkillFourButtonView
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.SecondPokemonView
+2c024972836d7e20519baad1cd3b940e Assembly-CSharp.dll:.EnemyHPDisplayUIView
 19a1fc9d007871ec60cf9323cd225148 Assembly-CSharp.dll:.PokemonModel
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MySkillOneTextView
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.SkillOneView
@@ -421,6 +424,3 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CatchPokemonNameView
-2c024972836d7e20519baad1cd3b940e Assembly-CSharp.dll:.MyHPDisplayUIView
-e01f1409391ca18e23396d19a8ecaa86 Assembly-CSharp.dll:.MyEXDisplayUIView
-2c024972836d7e20519baad1cd3b940e Assembly-CSharp.dll:.EnemyHPDisplayUIView

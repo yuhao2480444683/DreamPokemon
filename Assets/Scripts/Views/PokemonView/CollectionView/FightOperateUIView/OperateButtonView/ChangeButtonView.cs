@@ -10,5 +10,8 @@ public class ChangeButtonView : PokemonElement
     {
         app.fightController.OnChangeButtonClick();
     }
-
+    void OnChange()
+    {
+        OnSelect();
+    }
 }

@@ -9,4 +9,8 @@ public class SkillTwoButtonView : PokemonElement
     {
         app.fightController.OnSkillTwoClick();
     }
+    void OnUseThisSkill()
+    {
+        OnSelect();
+    }
 }

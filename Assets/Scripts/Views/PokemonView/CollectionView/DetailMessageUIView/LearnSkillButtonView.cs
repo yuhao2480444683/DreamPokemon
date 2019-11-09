@@ -8,6 +8,9 @@ public class LearnSkillButtonView : PokemonElement
     {
         app.controller.OnLearnSkillClick();
     }
-	
-	
+
+    void OnLearnSkill()
+    {
+        OnSelect();
+    }
 }

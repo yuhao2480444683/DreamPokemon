@@ -12,7 +12,7 @@ public class EnemyService : PokemonElement
         string randomEnemyType = "";
         int CaptainLevel = -1;
         Random rd = new Random();
-        int randomNum = rd.Next(0, 5);
+        int randomNum = rd.Next(0, 4);
 
         switch (randomNum)
         {
@@ -27,6 +27,7 @@ public class EnemyService : PokemonElement
                 break;
             case 3: randomEnemyType = "Pikachu";
                 break;
+         
         }
 
 
@@ -73,7 +74,7 @@ public class EnemyService : PokemonElement
             case "Pikachu":
                 randomEnemy.Skills.Add(app.model.GetRandomSkill(4,randomEnemy.Level));
                 break;
-
+          
         }
 
 

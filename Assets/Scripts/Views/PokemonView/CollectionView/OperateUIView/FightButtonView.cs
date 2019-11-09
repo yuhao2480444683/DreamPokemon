@@ -10,6 +10,9 @@ public class FightButtonView : PokemonElement
         app.fightController.OnFightDisplay();
         app.fightController.OnFightStart();
     }
-   
+   void OnFight()
+    {
+        OnSelect();
+    }
 
 }

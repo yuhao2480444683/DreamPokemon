@@ -9,4 +9,8 @@ public class SkillThreeButtonView : PokemonElement
     {
         app.fightController.OnSkillThreeClick();
     }
+    void OnUseThisSkill()
+    {
+        OnSelect();
+    }
 }

@@ -9,5 +9,8 @@ public class CatchButtonView : PokemonElement
     {
         app.fightController.OnCatchButtonClick();
     }
-
+    void OnCatch()
+    {
+        OnSelect();
+    }
 }

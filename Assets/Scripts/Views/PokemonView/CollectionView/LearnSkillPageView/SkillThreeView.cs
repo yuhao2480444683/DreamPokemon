@@ -9,5 +9,8 @@ public class SkillThreeView : PokemonElement
     {
         app.controller.OnLearnSkillThreeClick();
     }
-
+    void OnLearnThis()
+    {
+        OnSelect();
+    }
 }

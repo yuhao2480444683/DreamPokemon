@@ -325,7 +325,7 @@ public class PokemonModel : PokemonElement {
 
     };
 
-    public Skill GetRandomSkill(int pokemonType , int pokemonLevel)   //1 Fire  2 Water  3 Grass  4 Electric
+    public Skill GetRandomSkill(int pokemonType , int pokemonLevel)   //1 Fire  2 Water  3 Grass  4 Electric 5 Fly
     {
         Random rd = new Random();
         int skillNum = -1;
@@ -414,7 +414,7 @@ public class PokemonModel : PokemonElement {
 
 
         }// pt = 3
-        else
+        else if(pokemonType == 4)
         {
             if (pokemonLevel < 15)
             {
@@ -441,7 +441,6 @@ public class PokemonModel : PokemonElement {
                 }
             }
         }
-
         return null;
     }
 

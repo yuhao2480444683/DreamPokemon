@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PokemonElement : MonoBehaviour
 {
-    // Gives access to the application and all instances.
     public PokemonApplication app { get { return GameObject.FindObjectOfType<PokemonApplication>(); } }
 }
 

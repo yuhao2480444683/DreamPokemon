@@ -9,4 +9,13 @@ public class MyPokemonView : PokemonElement
        
         app.controller.CheckMyPokemon();
     }
+
+    void OnDisplayInformation()
+    {
+        OnSelect();
+    }
+    void OnCloseInformation()
+    {
+        OnSelect();
+    }
 }

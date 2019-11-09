@@ -10,6 +10,9 @@ public class RefreshButtonView : PokemonElement
     {
       app.controller.SetEnemy();
     }
-
+    void OnRefreshEnemy()
+    {
+        OnSelect();
+    }
 
 }

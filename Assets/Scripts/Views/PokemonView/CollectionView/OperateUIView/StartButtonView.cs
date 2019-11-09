@@ -8,4 +8,9 @@ public class StartButtonView : PokemonElement {
     {
         app.controller.InitMyPokemon();
     }
+
+    void OnStartGame()
+    {
+        OnSelect();
+    }
 }

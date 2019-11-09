@@ -246,6 +246,7 @@ public class FightController : PokemonElement {
         int damage = app.fightService.CalculateEnemyDamage(skillNum);
         if (app.fightService.OnDamageEnd(damage))
         {
+            app.fightService.SaveThisPokemon();
             app.view.collection.myPokenmon.gameObject.SetActive(false);
             app.view.collection.fightMessageUI.myHPDisplayUI.gameObject.SetActive(false);
             app.view.collection.fightMessageUI.myEXDisplayUI.gameObject.SetActive(false);
@@ -270,8 +271,10 @@ public class FightController : PokemonElement {
         else
         {
             //此回合结束,我方未阵亡
-            Invoke("UpdateMyHPUI",2);
+            app.fightService.SaveThisPokemon();
 
+            Invoke("UpdateMyHPUI",2);
+            
             if (app.fightService.JudgeRoundEnd())
             {
                 app.fightService.NextRoundFlag();

@@ -349,8 +349,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{4e154ac7-8ed5-453b-9c40-ddfd4d6dca50}</Project>
+    <ProjectReference Include="E:\GitHubLocalPath\DreamPokemon\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
+      <Project>{fe622a55-59f2-4099-adb3-dcdcd4ec8b86}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>

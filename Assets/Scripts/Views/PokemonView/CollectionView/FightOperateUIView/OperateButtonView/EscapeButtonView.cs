@@ -9,5 +9,8 @@ public class EscapeButtonView : PokemonElement
     {
         app.fightController.OnEscapeButtonClick();
     }
-
+    void OnEscape()
+    {
+        OnSelect();
+    }
 }

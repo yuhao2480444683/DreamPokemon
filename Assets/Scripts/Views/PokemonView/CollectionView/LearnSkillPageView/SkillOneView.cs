@@ -8,5 +8,8 @@ public class SkillOneView : PokemonElement
     {
         app.controller.OnLearnSkillOneClick();
     }
-	
+	void OnLearnThis()
+    {
+        OnSelect();
+    }
 }

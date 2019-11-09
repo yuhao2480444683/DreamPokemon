@@ -9,4 +9,9 @@ public class SetCaptainButtonView : PokemonElement
         app.controller.SetCaptain();
     }
 	
+    void OnSetCaptain()
+    {
+        OnSelect();
+    }
+
 }

@@ -8,5 +8,8 @@ public class PokemonBallTwoView : PokemonElement
     {
         app.fightController.PokeBallTwoClick();
     }
-
+    void OnChangeThisPokemon()
+    {
+        OnSelect();
+    }
 }

@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>a23879df-500e-4340-b2dc-03549ca7d4ae</PackageIdentityName>
     <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\obj\x86\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\obj\x86\Release\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\bin\x86\Release\AppX</LayoutDir>
+    <LayoutDir>E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\bin\x86\Release\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\bin\x86\Release\Core\AppxManifest.xml">
+    <AppXManifest Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\bin\x86\Release\DreamPokemon.exe">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\bin\x86\Release\DreamPokemon.exe">
       <PackagePath>entrypoint\DreamPokemon.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuhao\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
@@ -349,7 +349,7 @@
     <AppxPackagedFile Include="D:\UnityInstall\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
       <PackagePath>UnityEngineProxy.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Unprocessed\WinRTLegacy.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Unprocessed\WinRTLegacy.dll">
       <PackagePath>WinRTLegacy.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UnityInstall\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.dll">
@@ -373,241 +373,241 @@
     <AppxPackagedFile Include="D:\UnityInstall\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.winmd">
       <PackagePath>WinRTBridge.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Resource.res">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Resource.res">
       <PackagePath>Resource.res</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Data\boot.config">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Data\globalgamemanagers">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Data\level0">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Data\level0">
       <PackagePath>Data\level0</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Data\Resources\unity default resources">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Data\Resources\unity_builtin_extra">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Data\globalgamemanagers.assets">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Data\resources.assets">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Data\sharedassets0.assets">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Data\level0.resS">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Data\sharedassets0.assets.resS">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Data\managedAssemblies.txt">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\bin\x86\Release\resources.pri">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.TilemapModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.TextRenderingModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.TerrainPhysicsModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.TerrainModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.SharedInternalsModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.SpriteMaskModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.SpriteShapeModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.StyleSheetsModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.UIElementsModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.UnityWebRequestWWWModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.VehiclesModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.VideoModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.VRModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.WebModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.WindModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.UnityWebRequestTextureModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.UIModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.UNETModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.UnityAnalyticsModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.UnityConnectModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.UnityWebRequestAudioModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.UnityWebRequestModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.ScreenCaptureModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.AudioModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.ClothModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.CoreModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.CrashReportingModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.DirectorModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.AssetBundleModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.AccessibilityModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.AIModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.AnimationModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.ARModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.GameCenterModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.ParticlesLegacyModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.ParticleSystemModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.PerformanceReportingModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.Physics2DModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.PhysicsModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.GridModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.ImageConversionModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.IMGUIModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.InputModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.JSONSerializeModule.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.Timeline.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\nunit.framework.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.UI.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.SpatialTracking.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.Analytics.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.HoloLens.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.StandardEvents.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.Networking.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\UnityEngine.PerformanceTesting.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\UnityEngine.PerformanceTesting.dll">
       <PackagePath>UnityEngine.PerformanceTesting.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\Assembly-CSharp.dll">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\bin\x86\Release\Core\DreamPokemon.exe">
+    <AppxPackagedFile Include="E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\bin\x86\Release\Core\DreamPokemon.exe">
       <PackagePath>DreamPokemon.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

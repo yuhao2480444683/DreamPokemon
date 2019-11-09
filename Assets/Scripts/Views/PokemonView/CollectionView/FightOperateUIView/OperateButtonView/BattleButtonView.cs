@@ -9,4 +9,8 @@ public class BattleButtonView : PokemonElement
     {
         app.fightController.OnBattleButtonClick();
     }
+    void OnBattle()
+    {
+        OnSelect();
+    }
 }

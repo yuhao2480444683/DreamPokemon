@@ -7,7 +7,7 @@
 # Default behavior is to never overwrite files
 DreamPokemon.sln: modified
 DreamPokemon\App.cs: 9811D86935FA41CC82B76349805385EA
-DreamPokemon\DreamPokemon.csproj: 0B5C603337EBA802AA41A1460537EFD5
+DreamPokemon\DreamPokemon.csproj: D426B74D6037FF432B7ECB1496F825E5
 DreamPokemon\DreamPokemon.csproj.user: modified
 DreamPokemon\Package.appxmanifest: 6416B2184BD97918F692E4F962A4A74E
 DreamPokemon\project.json: 1D02BC64BAC0D041019673A1C4C51737

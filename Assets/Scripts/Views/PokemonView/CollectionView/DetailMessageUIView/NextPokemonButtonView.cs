@@ -9,4 +9,8 @@ public class NextPokemonButtonView : PokemonElement
         app.controller.DisplayNextPokemon();
     }
 
+    void OnNextPokemon()
+    {
+        OnSelect();
+    }
 }

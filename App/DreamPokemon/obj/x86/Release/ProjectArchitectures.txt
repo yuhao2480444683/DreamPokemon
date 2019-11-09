@@ -1,2 +1,2 @@
-C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\DreamPokemon\DreamPokemon.csproj;x86
-C:\Users\yuhao\Desktop\DreamPokemon\DreamPokemon\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+E:\GitHubLocalPath\DreamPokemon\App\DreamPokemon\DreamPokemon.csproj;x86
+E:\GitHubLocalPath\DreamPokemon\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
